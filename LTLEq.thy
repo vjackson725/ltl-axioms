@@ -470,7 +470,7 @@ end
 subsection \<open> Axiomatisation 3 \<close>
 
 text \<open>
-  This axiomatisation from Gabbay, PSS 's
+  This axiomatisation from Gabbay, Pnueli, Shelah, and Stavi's
     Temporal Analysis of Fairness
   and is the second axiomatisation they present
 \<close>
@@ -777,7 +777,7 @@ end
 subsection \<open> Axiomatisation 4 \<close>
 
 text \<open>
-  This axiomatisation from Gabbay, PSS 's
+  This axiomatisation from Gabbay, Pnueli, Shelah, and Stavi's
     Temporal Analysis of Fairness
   and is the first axiomatisation they present
 \<close>
